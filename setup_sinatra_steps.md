@@ -29,6 +29,9 @@ group :test do
   gem 'rspec'
 end
 ```
+```
+$ bundle
+```
 
 ```
 $ rspec-sinatra init --app ProjectName app.rb
